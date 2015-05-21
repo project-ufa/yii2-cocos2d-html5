@@ -3,6 +3,7 @@
 namespace projectufa\cocos2dhtml5;
 
 use yii\web\AssetBundle;
+use yii\base\View;
 
 class Cocos2dHtml5Asset extends AssetBundle
 {
@@ -14,6 +15,6 @@ class Cocos2dHtml5Asset extends AssetBundle
     ];
 
     public $jsOptions = [
-        'position' => \yii\base\View::POS_END,
+        'position' => View::POS_END,
     ];
 }
