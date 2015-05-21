@@ -16,17 +16,11 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/cocos2d-html5": "3.*"
+        "bower-asset/cocos2d-html5": "dev-master"
     },
     "autoload": {
         "psr-4": {
             "projectufa\\cocos2dhtml5\\": ""
-        }
-    },
-    "extra": {
-        "asset-installer-paths": {
-            "npm-asset-library": "vendor/npm",
-            "bower-asset-library": "vendor/bower"
         }
     }
 }
