@@ -16,7 +16,7 @@
     ],
     "require": {
         "yiisoft/yii2": ">=2.0.4",
-        "bower-asset/cocos2d-html5": "dev-develop"
+        "bower-asset/cocos2d-html5": "*"
     },
     "autoload": {
         "psr-4": {
