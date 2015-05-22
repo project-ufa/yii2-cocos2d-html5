@@ -18,6 +18,12 @@
         "yiisoft/yii2": "*",
         "bower-asset/cocos2d-html5": "3.*"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:project-ufa/cocos2d-html5.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "projectufa\\cocos2dhtml5\\": ""
