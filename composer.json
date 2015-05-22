@@ -1,12 +1,12 @@
 {
     "name": "projectufa/yii2-cocos2d-html5",
-    "description": "Cocos2d-html estension for yii2",
+    "description": "Cocos2d-html extension for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","cocos2d","html5"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/projectufa/yii2-cocos2d-html5/issues",
-         "source": "https://github.com/projectufa/yii2-cocos2d-html5"
+        "issues": "https://github.com/project-ufa/yii2-cocos2d-html5/issues",
+         "source": "https://github.com/project-ufa/yii2-cocos2d-html5"
     },
     "authors": [
         {
