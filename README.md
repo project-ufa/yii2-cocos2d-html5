@@ -25,7 +25,14 @@ to the require section of your `composer.json` file.
 Usage
 -----
 
-Once the extension is installed, simply use it in your code by  :
+Once the extension is installed, add in your main configuration the next rues:
 
 ```php
-<?= \projectufa\cocos2dhtml\AutoloadExample::widget(); ?>```
+            'rules' => [
+                ...
+                'project.json' => 'controller/action/to/generate/project.json',
+                'main.js' => 'controller/action/to/generate/main.js',
+                ...
+            ],
+```
+
